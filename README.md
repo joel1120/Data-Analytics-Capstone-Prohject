@@ -5,7 +5,7 @@ This case study is about designing a set of marketing strategies aimed at conver
 provided by the conduction of cyclists trip data. 
 
 ## Data Source
-All the data set could be found in the Dataset folder
+All the dataset could be found in the Cyclistic Case Study Introductory file.
 
 ## Project Workflow:
 1. Collecting data
